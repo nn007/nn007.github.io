@@ -21,7 +21,7 @@ body, html{
   font-size: 15em;
   font-weight: bold;
   margin:11% auto;
-  animation:  MOVE-BG 60s linear infinite;
+  animation:  MOVE-BG 25s linear infinite;
 }
 @keyframes MOVE-BG {
     from { background-position: 0 0;}
